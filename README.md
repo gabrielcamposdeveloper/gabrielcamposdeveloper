@@ -7,7 +7,7 @@
 
 - 📫 Analista e Desenvolvedor de Sistemas 
 - 🧾 Técnico em Tecnologia da Informação
-- 💪 Desenvolvedor Fullstack - Riskex
+- 💪 Desenvolvedor Fullstack
 - Veja minhas extenções VSCODE: <a href="https://marketplace.visualstudio.com/items?itemName=M0NGE.m0nge-react-extension-pack&ssr=false#review-details" target="_blank">Clique aqui</a>
       
 ## Status
