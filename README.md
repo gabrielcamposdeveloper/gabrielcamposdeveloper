@@ -28,40 +28,6 @@
 
 </div>
  
-  # Conhecimentos e Habilidades
 
-  ### Linguagens
-  
-  <p align="">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,cs,js,ts,java,php" />
-  </a>           
-</p>  
- <p align="">
-  <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=angular,react,tailwindcss" />
-  </a>           
-</p>  
-
-### Banco de dados
-
-  <p align="">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
-  </a>
-</p> 
-
-### Ferramentas
-
-  <p align="">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,netlify,figma" />
-  </a>
-</p> 
-
-<div>
- <h3><p align="center"> Visitas ao Perfil: </p><h3>
- <p align="center"><img align="center" src="https://profile-counter.glitch.me/jovemm0nge/count.svg" /></p>
-  </div>
   
  
