@@ -1,5 +1,3 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQGZZPlNCGpIHA/profile-displaybackgroundimage-shrink_350_1400/B4DZamOE6kG4Ac-/0/1746545431089?e=1752105600&v=beta&t=q4G6adpYVtrhKqh3A83Bzbz6GG-64mFsQecIF0n6It0">
-
 
 <h2> Oie Bem-vindo ao meu Git! </h2>
 
