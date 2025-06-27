@@ -2,7 +2,7 @@
 
 <p align="center">
 Desenvolvedor Full Stack • Angular | TypeScript | C# | .NET <br />
-Pleno/Sênior | Foco em performance, código limpo e interfaces escaláveis 🚀
+Pleno/Sênior
 </p>
 
 ---
