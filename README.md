@@ -1,8 +1,8 @@
 <h2 align="center">👋 Olá! Seja bem-vindo ao meu GitHub</h2>
 
 <p align="center">
-Desenvolvedor Full Stack • Angular | TypeScript | C# | .NET <br />
-Pleno/Sênior
+Desenvolvedor Full Stack • Angular | TypeScript | C# | .NET 
+• Pleno/Sênior
 </p>
 
 ---
