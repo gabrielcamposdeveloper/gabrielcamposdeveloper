@@ -11,11 +11,11 @@ Desenvolvedor Full Stack • Angular | TypeScript | C# | .NET
 
 Sou apaixonado por transformar ideias em código funcional. Com quase 4 anos de experiência em projetos nacionais e internacionais, atuei com tecnologias modernas no desenvolvimento de aplicações robustas e performáticas.
 
-- 🔭 Atualmente lidero frentes frontend usando Angular + RxJS
-- 🧠 Foco em boas práticas como Clean Code, SOLID, TDD e DDD
+- 🔭 lidero frentes frontend com Angular + RxJS
+- 🧠 Clean Code, SOLID, TDD e DDD
 - 🌍 Projetos multilíngues em +12 países (Mondelez, CSN, Kinross...)
-- 🧪 Testes automatizados (Jasmine, Karma, Cypress, NUnit)
-- ⚙️ CI/CD com Azure DevOps e GitFlow
+- 🧪 Testes automatizados (Jasmine, Karma, Cypress, NUnit, XUnit)
+- ⚙️ CI/CD com Azure DevOps, bitbucket, jenkins e GitFlow
 
 ---
 
