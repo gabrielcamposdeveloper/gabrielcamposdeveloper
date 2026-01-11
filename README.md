@@ -9,7 +9,7 @@ Desenvolvedor Full Stack • Angular | TypeScript | C# | .NET
 
 ### 💻 Sobre mim
 
-Sou apaixonado por transformar ideias em código funcional. Com quase 4 anos de experiência em projetos nacionais e internacionais, atuei com tecnologias modernas no desenvolvimento de aplicações robustas e performáticas.
+Sou apaixonado por transformar ideias em código funcional. Com quase 5 anos de experiência em projetos nacionais e internacionais, atuei com tecnologias modernas no desenvolvimento de aplicações robustas e performáticas.
 
 - 🔭 lidero frentes frontend com Angular + RxJS
 - 🧠 Clean Code, SOLID, TDD e DDD
