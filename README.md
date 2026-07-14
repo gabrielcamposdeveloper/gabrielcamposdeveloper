@@ -2,7 +2,7 @@
 
 <p align="center">
 Desenvolvedor Full Stack • Angular | TypeScript | C# | .NET 
-• Pleno/Sênior
+• Sênior
 </p>
 
 ---
