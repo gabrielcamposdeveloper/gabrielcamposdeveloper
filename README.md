@@ -9,13 +9,13 @@
 
 ### 💻 About Me
 
-I am a Senior Full Stack Software Engineer with over 7 years of experience building and modernizing mission-critical enterprise systems[cite: 1]. I am passionate about transforming ideas into clean, functional, and highly scalable code.
+I am a Senior Full Stack Software Engineer with over 7 years of experience building and modernizing mission-critical enterprise systems. I am passionate about transforming ideas into clean, functional, and highly scalable code.
 
-- 🔭 **Architecture & Scalability:** Specialist in distributed architectures, microservices, Event-Driven Architecture (EDA), CQRS, and Domain-Driven Design (DDD)[cite: 1].
-- 🚀 **High Performance:** Experienced in developing and maintaining high-demand systems, including the asynchronous processing of 15 million tax documents per month[cite: 1].
-- 🌍 **Global Projects:** Acted in building global multi-tenant SaaS platforms with multi-language support (e.g., Mondelez, CSN, Kinross)[cite: 1].
-- 🧠 **Frontend Engineering:** Technical lead in modernizing applications to Micro Frontends (Angular/React), applying advanced componentization and reactive flows with RxJS[cite: 1].
-- 🧪 **Quality & Governance:** Strong culture of Clean Code and SOLID principles, implementing automated tests (xUnit, NUnit, Jest, Cypress, TDD/ATDD) and robust CI/CD pipelines[cite: 1].
+- 🔭 **Architecture & Scalability:** Specialist in distributed architectures, microservices, Event-Driven Architecture (EDA), CQRS, and Domain-Driven Design (DDD).
+- 🚀 **High Performance:** Experienced in developing and maintaining high-demand systems, including the asynchronous processing of 15 million tax documents per month.
+- 🌍 **Global Projects:** Acted in building global multi-tenant SaaS platforms with multi-language support (e.g., Mondelez, CSN, Kinross).
+- 🧠 **Frontend Engineering:** Technical lead in modernizing applications to Micro Frontends (Angular/React), applying advanced componentization and reactive flows with RxJS.
+- 🧪 **Quality & Governance:** Strong culture of Clean Code and SOLID principles, implementing automated tests (xUnit, NUnit, Jest, Cypress, TDD/ATDD) and robust CI/CD pipelines.
 
 ---
 
@@ -44,8 +44,8 @@ I am a Senior Full Stack Software Engineer with over 7 years of experience build
 
 ### 🧩 Featured Projects & Extensions
 
-- 🔗 **[M0NGE React Extension Pack](https://marketplace.visualstudio.com/items?itemName=M0NGE.m0nge-react-extension-pack&ssr=false#review-details)**: VS Code extension I developed to accelerate the React setup and development ecosystem[cite: 1].
-- 💡 **VETConnect & Diagnóstico IA**: GraphQL and Node.js projects focused on innovative solutions[cite: 1].
+- 🔗 **[M0NGE React Extension Pack](https://marketplace.visualstudio.com/items?itemName=M0NGE.m0nge-react-extension-pack&ssr=false#review-details)**: VS Code extension I developed to accelerate the React setup and development ecosystem.
+- 💡 **VETConnect & Diagnóstico IA**: GraphQL and Node.js projects focused on innovative solutions.
 
 ---
 
