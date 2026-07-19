@@ -35,16 +35,16 @@ I am a Senior Full Stack Software Engineer with over 7 years of experience build
 
 ---
 
-### 📊 GitHub Analytics
-
-![GitHub Stats Card](https://ghstats.dev/api/card?username=gabrielcamposdeveloper&border_radius=28.5)
-
----
-
 ### 🧩 Featured Projects & Extensions
 
 - 🔗 **[M0NGE React Extension Pack](https://marketplace.visualstudio.com/items?itemName=M0NGE.m0nge-react-extension-pack&ssr=false#review-details)**: VS Code extension I developed to accelerate the React setup and development ecosystem.
 - 💡 **VETConnect & Diagnóstico IA**: GraphQL and Node.js projects focused on innovative solutions.
+
+---
+
+### 📊 GitHub Analytics
+
+![GitHub Stats Card](https://ghstats.dev/api/card?username=gabrielcamposdeveloper&border_radius=28.5)
 
 ---
 
