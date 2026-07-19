@@ -37,8 +37,7 @@ I am a Senior Full Stack Software Engineer with over 7 years of experience build
 
 ### 📊 GitHub Analytics
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=gabrielcamposdeveloper&border_radius=0&hide=repos%2Cfollowers%2Cavg%2Cactive_day%2Ctrend%2Chours%2Cstreak%2Cweek)
-![Top Languages](https://ghstats.dev/api/langs?username=gabrielcamposdeveloper&layout=grid)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=gabrielcamposdeveloper&border_radius=28.5)
 
 ---
 
