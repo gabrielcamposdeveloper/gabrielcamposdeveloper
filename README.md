@@ -5,8 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielcamposdeveloper)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielcampos.dev@outlook.com)
 
----
-
 ### 💻 About Me
 
 I am a Senior Full Stack Software Engineer with over 7 years of experience building and modernizing mission-critical enterprise systems. I am passionate about transforming ideas into clean, functional, and highly scalable code.
@@ -16,8 +14,6 @@ I am a Senior Full Stack Software Engineer with over 7 years of experience build
 - 🌍 **Global Projects:** Acted in building global multi-tenant SaaS platforms with multi-language support (e.g., Mondelez, CSN, Kinross).
 - 🧠 **Frontend Engineering:** Technical lead in modernizing applications to Micro Frontends (Angular/React), applying advanced componentization and reactive flows with RxJS.
 - 🧪 **Quality & Governance:** Strong culture of Clean Code and SOLID principles, implementing automated tests (xUnit, NUnit, Jest, Cypress, TDD/ATDD) and robust CI/CD pipelines.
-
----
 
 ### 🛠️ My Tech Stack
 
@@ -35,7 +31,3 @@ I am a Senior Full Stack Software Engineer with over 7 years of experience build
 ### 📊 GitHub Analytics
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=gabrielcamposdeveloper&border_radius=28.5)
-
----
-
-*Thanks for visiting my repository — feel free to explore my projects and reach out to chat! 😊*
