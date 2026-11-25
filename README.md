@@ -7,7 +7,7 @@
 
 ### 💻 About Me
 
-I am a Senior Full Stack Software Engineer with over 7 years of experience building and modernizing mission-critical enterprise systems. I am passionate about transforming ideas into clean, functional, and highly scalable code.
+I am a Senior Full Stack Software Engineer with over 8 years of experience building and modernizing mission-critical enterprise systems. I am passionate about transforming ideas into clean, functional, and highly scalable code.
 
 - 🔭 **Architecture & Scalability:** Specialist in distributed architectures, microservices, Event-Driven Architecture (EDA), CQRS, and Domain-Driven Design (DDD).
 - 🚀 **High Performance:** Experienced in developing and maintaining high-demand systems, including the asynchronous processing of 15 million tax documents per month.
